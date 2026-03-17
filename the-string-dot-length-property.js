@@ -14,7 +14,7 @@ Your task is to:
 */
 
 // Starter Code (Pre-filled):
-// Predefined strings
+/* Predefined strings
 let stringOne = "Coding Bootcamp";
 let stringTwo = "JavaScript";
 let stringThree = "";
@@ -25,6 +25,16 @@ let lengthTwo;   // Length of stringTwo
 let lengthThree; // Length of stringThree
 
 // Your code here
+*/
 
+let stringOne = "Coding Bootcamp";
+let stringTwo = "JavaScript";
+let stringThree = "";
 
+let lengthOne = stringOne.length   // Length of stringOne
+let lengthTwo =  stringTwo.length  // Length of stringTwo
+let lengthThree=  stringThree.length
 
+console.log(lengthOne)
+console.log(lengthTwo);
+console.log(lengthThree);
